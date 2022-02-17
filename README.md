@@ -1,4 +1,4 @@
-# Snippet
+# Overview
 
 [![Documentation](https://badgen.net/badge/Documentation/GitHub%20Pages/blue?icon=github)](https://armmbed.github.io/snippet)
 
@@ -23,7 +23,7 @@ To install the most recent production quality release use:
 ```
 npm install
 ```
-
+To run
+```
 npm start
-
 ```
