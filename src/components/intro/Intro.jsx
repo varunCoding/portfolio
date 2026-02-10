@@ -7,10 +7,10 @@ export default function Intro() {
 
   useEffect(() => {
     init(textRef.current, {
-      showCursor: true,
+      showCursor: false,
       backDelay: 1500,
-      backSpeed:60,
-      strings: ["Developer","Engineer","Creator","Learner"],
+      backSpeed: 60,
+      strings: ["Developer", "Engineer", "Creator", "Learner"],
     });
   }, []);
 
@@ -18,7 +18,7 @@ export default function Intro() {
     <div className="intro" id="intro">
       <div className="left">
         <div className="imgContainer">
-          <img src="assets/man.png" alt="" />
+          <img src="assets/varun.png" alt="" />
         </div>
       </div>
       <div className="right">
