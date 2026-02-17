@@ -22,7 +22,7 @@ export default function Header() {
             className="avatar"
             loading="lazy"
             sizes="160px"
-            src="assets/images/profile.png"
+            src="/assets/images/profile.png"
           />
         </div>
         <div
@@ -47,7 +47,7 @@ export default function Header() {
                 alt=""
                 className="emoji-icon"
                 loading="lazy"
-                src="assets/images/5f99409a4f44a06588c65d57_Hand%20Emoji.png"
+                src="/assets/images/5f99409a4f44a06588c65d57_Hand%20Emoji.png"
               />
             </span>
           </h3>
@@ -72,7 +72,7 @@ export default function Header() {
             ( with lot of coffee{" "}
             <img
               className="coffee--mug"
-              src="assets/images/coffee.png"
+              src="/assets/images/coffee2.png"
               alt="Coffee Mug"
             />
             )
@@ -92,16 +92,15 @@ export default function Header() {
               "translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
           }}
         >
-          <strong>Software Developer</strong> with 4+ years of experience
-          working in Software Development. Proficient in
-          Javascript(Node.js,Express.js,React), Java(Springboot),
-          Python(Django,Streamlit,Flask), PostgreSQL etc. Passionate about every
+          <strong>Software Developer</strong> with 7+ years of experience
+          working in Software Development. Proficient in Javascript(React
+          JS,React Native , Next JS), Typescript etc. Passionate about every
           aspect of software development
         </p>
         <a
           className="button w-button"
           data-w-id="a77ce566-82ce-3690-e9ea-6dbaca8e0288"
-          href="https://www.linkedin.com/in/rahulpareekdev/"
+          href="https://www.linkedin.com/in/varun-pareek-5190abb3/"
           style={{
             WebkitTransform:
               "translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",

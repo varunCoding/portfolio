@@ -38,7 +38,7 @@ function App() {
                 href="/#"
               >
                 <div className="resume-title">
-                  <h4 className="resume-heading">Google(Contract)</h4>
+                  <h4 className="resume-heading">Mphasis</h4>
                   <img
                     alt=""
                     className="arrow-right"
@@ -47,24 +47,11 @@ function App() {
                   />
                 </div>
                 <div className="resume-type">Sr. Software Developer</div>
-                <p>May 2025 - Present</p>
+                <p>Jun 2023 - Present</p>
               </a>
               <a className="item-wrap w-inline-block" href="/#">
                 <div className="resume-title">
-                  <h4 className="resume-heading">Edgeverve Systems</h4>
-                  <img
-                    alt=""
-                    className="arrow-right"
-                    loading="lazy"
-                    src="https://assets.website-files.com/5f99409a4f44a04dedc65d19/5f99409a4f44a0a331c65d50_ArrowIcon%20(1).svg"
-                  />
-                </div>
-                <div className="resume-type">Software Developer</div>
-                <p>Aug 2021 - Feb 2025</p>
-              </a>
-              <a className="item-wrap w-inline-block" href="/#">
-                <div className="resume-title">
-                  <h4 className="resume-heading">LinuxWorld Infotech</h4>
+                  <h4 className="resume-heading">Dotsquares </h4>
                   <img
                     alt=""
                     className="arrow-right"
@@ -72,8 +59,21 @@ function App() {
                     src="https://assets.website-files.com/5f99409a4f44a04dedc65d19/5f99409a4f44a0a331c65d50_Arrow%20Icon%20(1).svg"
                   />
                 </div>
-                <div className="resume-type">Intern</div>
-                <p>May 2020 - Jul 2020</p>
+                <div className="resume-type">Sr. Software Developer</div>
+                <p>Jun 2019 - Jun 2023</p>
+              </a>
+              <a className="item-wrap w-inline-block" href="/#">
+                <div className="resume-title">
+                  <h4 className="resume-heading">BR Softech</h4>
+                  <img
+                    alt=""
+                    className="arrow-right"
+                    loading="lazy"
+                    src="https://assets.website-files.com/5f99409a4f44a04dedc65d19/5f99409a4f44a0a331c65d50_Arrow%20Icon%20(1).svg"
+                  />
+                </div>
+                <div className="resume-type">Software Developer</div>
+                <p>Aug 2018 - Jun 2019</p>
               </a>
             </div>
             <div
@@ -102,9 +102,9 @@ function App() {
                   />
                 </div>
                 <div className="resume-type">
-                  B.Tech • Computer Science &amp; Technology
+                  MCA • Computer Science &amp; Technology
                 </div>
-                <p>2017 – 2021</p>
+                <p>2015 – 2018</p>
               </a>
             </div>
 
@@ -123,18 +123,14 @@ function App() {
               </div>
               <div className="w-layout-grid resume-grid-inner">
                 <div>
-                  <h4>Backend Development</h4>
-                  <p className="paragraph">Node.js (Express)</p>
-                  <p className="paragraph">Java</p>
-                  <p className="paragraph">Python</p>
-                  <p className="paragraph">Databases (PostgreSQL/MongoDB)</p>
-                  <p className="paragraph">RESTful API</p>
+                  <h4>Mobile Development</h4>
+                  <p className="paragraph">React Native</p>
                 </div>
                 <div>
                   <h4>Frontend Development</h4>
                   <p className="paragraph">HTML/CSS</p>
                   <p className="paragraph">JavaScript/TypeScript</p>
-                  <p className="paragraph">React</p>
+                  <p className="paragraph">React/Next</p>
                   <p className="paragraph">
                     Unit Testing Frameworks (Jest/Mocha)
                   </p>
@@ -168,7 +164,7 @@ function App() {
                       <br />
                       <a
                         className="highlight-span"
-                        href="https://www.linkedin.com/in/rahulpareekdev/"
+                        href="https://www.linkedin.com/in/varun-pareek-5190abb3/"
                       >
                         Let’s Connect
                       </a>
@@ -214,11 +210,11 @@ function App() {
                 className="cta-block"
                 data-w-id="c9d26477-efa7-ceff-de63-7d2e48d1e807"
               >
-                <h4>Open to Backend, frontend and fullstack Openings</h4>
+                <h4>Open to frontend and mobile Openings</h4>
                 <a
                   className="cta-link-large w-inline-block"
                   data-w-id="c9d26477-efa7-ceff-de63-7d2e48d1e80a"
-                  href="https://www.linkedin.com/in/rahulpareekdev/"
+                  href="https://www.linkedin.com/in/varun-pareek-5190abb3/"
                 >
                   <div className="arrow-wrap">
                     <img
@@ -296,7 +292,7 @@ function App() {
                       </a>
                       <a
                         className="social-link w-inline-block"
-                        href="https://www.linkedin.com/in/rahulpareekdev/"
+                        href="https://www.linkedin.com/in/varun-pareek-5190abb3/"
                         target="_blank"
                         rel="noreferrer"
                       >
@@ -324,12 +320,12 @@ function App() {
                         loading="lazy"
                         src="https://assets.website-files.com/5f99409a4f44a04dedc65d19/5f99409a4f44a01c85c65d53_Mail%20Icon.svg"
                       />
-                      <img
+                      {/* <img
                         alt=""
                         className="navigation-arrow"
                         loading="lazy"
                         src="https://assets.website-files.com/5f99409a4f44a04dedc65d19/5f99409a4f44a0a331c65d50_Arrow%20Icon%20(1).svg"
-                      />
+                      /> */}
                     </div>
                     <div>varunpareek2015@gmail.com</div>
                   </a>
