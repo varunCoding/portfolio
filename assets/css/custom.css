@@ -1,0 +1,32 @@
+.grid-column{
+display: flex;
+flex-wrap: wrap;
+gap: 30px;
+}
+.item-wrap {
+    width: fit-content;
+    margin-bottom: 48px;
+    text-decoration: none;
+}
+
+.title-wrap-large{
+min-width: 400px;
+}
+
+.coffee--mug{
+width: 6vh;
+height: auto;
+
+}
+
+.heading--sub{
+font-size: 5vh;
+}
+
+.title-flex{
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+gap: 5px;
+}
+
