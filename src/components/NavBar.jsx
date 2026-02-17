@@ -41,7 +41,7 @@ export default function NavBar() {
         </div>
         <div className="navigation-right">
           <nav className="nav-menu w-nav-menu" role="navigation">
-            <a className="nav-link w-nav-link" href="index.html#About">
+            <a className="nav-link w-nav-link" href="#About">
               About
             </a>
             {/* <a

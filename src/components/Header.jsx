@@ -1,4 +1,5 @@
 export default function Header() {
+  const IMAGESGLOBAL = process.env.PUBLIC_URL + "/assets/images/";
   return (
     <div className="header">
       <div className="header-title-wrap">
@@ -16,13 +17,12 @@ export default function Header() {
               "translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
           }}
         >
-          {/* http://localhost:3000/assets/images/profile.png */}
           <img
-            alt="Varun Pareek"
+            alt="Varun_Pareek"
             className="avatar"
             loading="lazy"
             sizes="160px"
-            src="/assets/images/profile.png"
+            src={IMAGESGLOBAL + "profile.png"}
           />
         </div>
         <div
@@ -47,7 +47,7 @@ export default function Header() {
                 alt=""
                 className="emoji-icon"
                 loading="lazy"
-                src="/assets/images/5f99409a4f44a06588c65d57_Hand%20Emoji.png"
+                src={IMAGESGLOBAL + "5f99409a4f44a06588c65d57_Hand%20Emoji.png"}
               />
             </span>
           </h3>
@@ -72,7 +72,7 @@ export default function Header() {
             ( with lot of coffee{" "}
             <img
               className="coffee--mug"
-              src="/assets/images/coffee2.png"
+              src={IMAGESGLOBAL + "coffee.png"}
               alt="Coffee Mug"
             />
             )

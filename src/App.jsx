@@ -308,7 +308,7 @@ function App() {
                     aria-current="page"
                     className="footer-brand w-nav-brand w--current"
                     data-w-id="7ad12778-680d-fb1a-cf4b-23af6b9693c9"
-                    href="mailto:rahulpareek9250@gmail.com"
+                    href="mailto:varunpareek2015@gmail.com"
                   >
                     <div
                       className="navigation-icon-wrap"
